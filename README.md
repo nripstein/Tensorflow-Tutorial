@@ -1,5 +1,5 @@
 # Tensorflor Tutorial
-These are my Jupyter Notebook files as I learn tensorflow using [Daniel Bourke's Tensorflow Youtube tutorial](https://www.youtube.com/watch?v=tpCFfeUEGs8&amp). It is a [two part series](https://youtu.be/ZUKz4125WNI) close to 15 hours in duration.  I am currently about 10 hours through.  
+These are my Jupyter Notebook files as I learn tensorflow using [Daniel Bourke's Tensorflow Youtube tutorial](https://www.youtube.com/watch?v=tpCFfeUEGs8&amp). It is a [two part series](https://youtu.be/ZUKz4125WNI) over 14 hours in duration.  I am currently about 11 hours through.  
 
 This repository also includes some indipendent practice with tensorflow (see "notebook practice"), including a neural network I designed to predict house prices using the Boston housing dataset.
 
